@@ -2,7 +2,45 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 <!-- STATS_START -->
 
-Loading...
+
+
+## 📊 Upload Dashboard
+
+🚀 **Total Uploaded:** **1**
+
+🟢 **Easy (0)**
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+🟡 **Medium (1)**
+
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+
+🔴 **Hard (0)**
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+---
+
+## 📚 Recently Solved
+
+✔ Longest Balanced Substring Ii
+✔ Path Existence Queries In A Graph Ii
+✔ Add Two Numbers
+
+---
+
+## 📈 Repository Overview
+
+📂 Repository : **LeetCode Solutions**
+
+🧩 Problems Uploaded : **1**
+
+📅 Last Updated : **10 Jul 2026**
+
+🤖 Auto Synced using **LeetHub v2**
+
+
 
 <!-- STATS_END -->
 
