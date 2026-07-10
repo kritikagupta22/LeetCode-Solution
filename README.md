@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
