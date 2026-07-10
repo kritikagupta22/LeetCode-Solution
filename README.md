@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **1**
+🚀 **Total Uploaded:** **2**
 
 🟢 **Easy (0)**
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (1)**
+🟡 **Medium (2)**
 
 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 
@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Longest Balanced Substring Ii
 ✔ Path Existence Queries In A Graph Ii
+✔ Reverse Integer
 ✔ Add Two Numbers
 
 ---
@@ -34,7 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **1**
+🧩 Problems Uploaded : **2**
 
 📅 Last Updated : **10 Jul 2026**
 
