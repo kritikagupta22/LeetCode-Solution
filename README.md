@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
