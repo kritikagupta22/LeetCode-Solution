@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
