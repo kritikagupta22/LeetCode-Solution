@@ -2,11 +2,35 @@ const fs = require("fs");
 
 const stats = JSON.parse(fs.readFileSync("stats.json", "utf8"));
 
-const easy = stats.leetcode.easy || 0;
-const medium = stats.leetcode.medium || 0;
-const hard = stats.leetcode.hard || 0;
-const solved = stats.leetcode.solved || (easy + medium + hard);
+// Read all uploaded problems
+const problems = Object.entries(stats.leetcode.shas)
+    .filter(([key]) => /^\d/.test(key));
 
+const solved = problems.length;
+
+let easy = 0;
+let medium = 0;
+let hard = 0;
+let unknown = 0;
+
+// Count difficulty
+for (const [, value] of problems) {
+    switch ((value.difficulty || "").toLowerCase()) {
+        case "easy":
+            easy++;
+            break;
+        case "medium":
+            medium++;
+            break;
+        case "hard":
+            hard++;
+            break;
+        default:
+            unknown++;
+    }
+}
+
+// Progress bar
 function bar(value, total, color) {
     const length = 10;
     const filled = Math.round((value / Math.max(total, 1)) * length);
@@ -20,21 +44,17 @@ const lastDate = new Date().toLocaleDateString("en-IN", {
     year: "numeric"
 });
 
-// Recent Problems (last 5 by problem number)
-const recent = Object.keys(stats.leetcode.shas)
-    .filter(key => /^\d/.test(key))
-    .sort((a, b) => {
-        const na = parseInt(a.split("-")[0]);
-        const nb = parseInt(b.split("-")[0]);
-        return nb - na;
-    })
+// Latest 5 uploaded (highest problem number)
+const recent = problems
+    .map(([name]) => name)
+    .sort((a, b) => parseInt(b) - parseInt(a))
     .slice(0, 5)
-    .map(problem => {
-        return problem
+    .map(problem =>
+        problem
             .replace(/^\d+-/, "")
             .replace(/-/g, " ")
-            .replace(/\b\w/g, c => c.toUpperCase());
-    });
+            .replace(/\b\w/g, c => c.toUpperCase())
+    );
 
 const dashboard = `
 
@@ -54,21 +74,25 @@ ${bar(medium, solved, "🟨")}
 
 ${bar(hard, solved, "🟥")}
 
+⚪ **Unknown (${unknown})**
+
+${bar(unknown, solved, "⬜")}
+
 ---
 
 ## 📚 Recently Solved
 
-${recent.map(p => `✔ ${p}`).join("\n")}
+${recent.map(problem => `✔ ${problem}`).join("\n")}
 
 ---
 
 ## 📈 Repository Overview
 
-📂 Repository : **LeetCode Solutions**
+📂 **Repository:** LeetCode Solutions
 
-🧩 Problems Uploaded : **${solved}**
+🧩 **Problems Uploaded:** ${solved}
 
-📅 Last Updated : **${lastDate}**
+📅 **Last Updated:** ${lastDate}
 
 🤖 Auto Synced using **LeetHub v2**
 
