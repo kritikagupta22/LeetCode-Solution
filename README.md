@@ -6,19 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **2**
+🚀 **Total Uploaded:** **5**
 
-🟢 **Easy (0)**
+🟢 **Easy (1)**
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (2)**
+🟡 **Medium (3)**
 
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜
 
-🔴 **Hard (0)**
+🔴 **Hard (1)**
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
@@ -26,8 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ✔ Longest Balanced Substring Ii
 ✔ Path Existence Queries In A Graph Ii
-✔ Reverse Integer
-✔ Add Two Numbers
+✔ Count The Number Of Complete Components
+✔ Rank Transform Of An Array
+✔ Sequential Digits
 
 ---
 
@@ -35,9 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 Repository : **LeetCode Solutions**
 
-🧩 Problems Uploaded : **2**
+🧩 Problems Uploaded : **5**
 
-📅 Last Updated : **10 Jul 2026**
+📅 Last Updated : **13 Jul 2026**
 
 🤖 Auto Synced using **LeetHub v2**
 
