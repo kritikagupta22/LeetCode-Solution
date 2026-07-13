@@ -1,35 +1,41 @@
-name: Update README
+name: Update README Dashboard
 
 on:
   push:
     paths:
       - stats.json
+      - update-readme.js
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
-      - name: Update README
+      - name: 🚀 Generate README Dashboard
         run: node update-readme.js
 
-      - name: Commit README
+      - name: 💾 Commit & Push Changes
         run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "Update README Dashboard"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "🤖 Auto-update README Dashboard"
+            git push
+          fi
