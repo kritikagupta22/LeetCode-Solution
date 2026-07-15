@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **30**
+🚀 **Total Uploaded:** **31**
 
-🟢 **Easy (6)**
+🟢 **Easy (7)**
 
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -29,10 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 📚 Recently Solved
 
 ✔ Longest Balanced Substring Ii
+✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
 ✔ Find The Number Of Subsequences With Equal Gcd
 ✔ Count The Number Of Complete Components
-✔ Rank Transform Of An Array
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 30
+🧩 **Problems Uploaded:** 31
 
-📅 **Last Updated:** 14 Jul 2026
+📅 **Last Updated:** 15 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
