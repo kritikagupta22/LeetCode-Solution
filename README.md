@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0027-remove-element) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0027-remove-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
