@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
