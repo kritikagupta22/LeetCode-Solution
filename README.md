@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
