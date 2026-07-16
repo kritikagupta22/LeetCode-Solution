@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **34**
+🚀 **Total Uploaded:** **35**
 
 🟢 **Easy (9)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (13)**
+🟡 **Medium (14)**
 
 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜
 
@@ -28,11 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Sum Of Gcd Of Formed Pairs
 ✔ Longest Balanced Substring Ii
 ✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
 ✔ Find The Number Of Subsequences With Equal Gcd
-✔ Count The Number Of Complete Components
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 34
+🧩 **Problems Uploaded:** 35
 
-📅 **Last Updated:** 15 Jul 2026
+📅 **Last Updated:** 16 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
