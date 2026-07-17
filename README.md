@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
 ## Trie
 |  |
@@ -255,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
