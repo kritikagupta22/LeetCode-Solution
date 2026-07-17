@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
