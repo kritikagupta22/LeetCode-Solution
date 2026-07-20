@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
+| [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
