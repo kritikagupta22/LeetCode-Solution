@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
