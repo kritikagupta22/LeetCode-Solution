@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **57**
+🚀 **Total Uploaded:** **58**
 
 🟢 **Easy (13)**
 
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (28)**
+🟡 **Medium (29)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -32,7 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Longest Balanced Substring Ii
 ✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
-✔ Find The Number Of Subsequences With Equal Gcd
+✔ Maximize Active Section With Trade I
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 57
+🧩 **Problems Uploaded:** 58
 
-📅 **Last Updated:** 20 Jul 2026
+📅 **Last Updated:** 21 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
