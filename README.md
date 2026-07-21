@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
+| [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
 | ------- |
