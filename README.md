@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
