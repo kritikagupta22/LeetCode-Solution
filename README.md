@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
