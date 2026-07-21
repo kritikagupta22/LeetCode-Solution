@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -239,12 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
@@ -336,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
