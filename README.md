@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **70**
+🚀 **Total Uploaded:** **71**
 
 🟢 **Easy (15)**
 
@@ -16,7 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
-🔴 **Hard (11)**
+🔴 **Hard (12)**
 
 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -32,7 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Longest Balanced Substring Ii
 ✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
-✔ Maximize Active Section With Trade I
+✔ Maximize Active Section With Trade Ii
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 70
+🧩 **Problems Uploaded:** 71
 
-📅 **Last Updated:** 21 Jul 2026
+📅 **Last Updated:** 22 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
