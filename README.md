@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **72**
+🚀 **Total Uploaded:** **73**
 
 🟢 **Easy (15)**
 
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (36)**
+🟡 **Medium (37)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -32,7 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Longest Balanced Substring Ii
 ✔ Gcd Of Odd And Even Sums
 ✔ Path Existence Queries In A Graph Ii
-✔ Number Of Unique Xor Triplets I
+✔ Number Of Unique Xor Triplets Ii
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 72
+🧩 **Problems Uploaded:** 73
 
-📅 **Last Updated:** 23 Jul 2026
+📅 **Last Updated:** 24 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
