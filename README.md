@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
