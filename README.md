@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0038-count-and-say) |
+| [0087-scramble-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0097-interleaving-string) |
