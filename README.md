@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
@@ -347,12 +350,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
