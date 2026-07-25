@@ -6,9 +6,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **86**
+🚀 **Total Uploaded:** **87**
 
-🟢 **Easy (20)**
+🟢 **Easy (21)**
 
 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -31,8 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Sum Of Gcd Of Formed Pairs
 ✔ Longest Balanced Substring Ii
 ✔ Gcd Of Odd And Even Sums
+✔ Maximum Product Of Two Digits
 ✔ Path Existence Queries In A Graph Ii
-✔ Number Of Unique Xor Triplets Ii
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 86
+🧩 **Problems Uploaded:** 87
 
-📅 **Last Updated:** 24 Jul 2026
+📅 **Last Updated:** 25 Jul 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
