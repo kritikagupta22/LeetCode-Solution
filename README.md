@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
