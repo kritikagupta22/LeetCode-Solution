@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
