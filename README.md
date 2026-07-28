@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
