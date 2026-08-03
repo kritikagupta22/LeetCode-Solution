@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0059-spiral-matrix-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
