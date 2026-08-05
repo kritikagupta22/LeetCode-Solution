@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
