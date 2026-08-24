@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2029-stone-game-ix) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search Tree
 |  |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -555,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -562,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
