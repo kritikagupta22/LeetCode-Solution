@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **146**
+🚀 **Total Uploaded:** **147**
 
 🟢 **Easy (39)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (69)**
+🟡 **Medium (70)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -32,7 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ✔ Smallest Stable Index I
 ✔ Construct Uniform Parity Array Ii
 ✔ Construct Uniform Parity Array I
-✔ Count Commas In Range
+✔ Count Commas In Range Ii
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 146
+🧩 **Problems Uploaded:** 147
 
-📅 **Last Updated:** 08 Sept 2026
+📅 **Last Updated:** 09 Sept 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
