@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
