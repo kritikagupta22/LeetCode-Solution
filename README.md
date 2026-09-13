@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
