@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0210-course-schedule-ii) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
