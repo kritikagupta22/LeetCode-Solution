@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **185**
+🚀 **Total Uploaded:** **186**
 
 🟢 **Easy (47)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (87)**
+🟡 **Medium (88)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -28,11 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Minimum Operations To Sort A Permutation
 ✔ Smallest Stable Index Ii
 ✔ Smallest Stable Index I
 ✔ Sum Of Sortable Integers
 ✔ Construct Uniform Parity Array Ii
-✔ Construct Uniform Parity Array I
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 185
+🧩 **Problems Uploaded:** 186
 
-📅 **Last Updated:** 21 Oct 2026
+📅 **Last Updated:** 22 Oct 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
