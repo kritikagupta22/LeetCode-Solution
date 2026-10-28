@@ -6,13 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📊 Upload Dashboard
 
-🚀 **Total Uploaded:** **189**
+🚀 **Total Uploaded:** **191**
 
-🟢 **Easy (48)**
+🟢 **Easy (49)**
 
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
-🟡 **Medium (90)**
+🟡 **Medium (91)**
 
 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
 
@@ -28,11 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## 📚 Recently Solved
 
+✔ Create Grid With Exactly One Path
 ✔ Minimum Operations To Sort A Permutation
 ✔ Smallest Stable Index Ii
 ✔ Smallest Stable Index I
 ✔ Sum Of Sortable Integers
-✔ Construct Uniform Parity Array Ii
 
 ---
 
@@ -40,9 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 📂 **Repository:** LeetCode Solutions
 
-🧩 **Problems Uploaded:** 189
+🧩 **Problems Uploaded:** 191
 
-📅 **Last Updated:** 26 Oct 2026
+📅 **Last Updated:** 28 Oct 2026
 
 🤖 Auto Synced using **LeetHub v2**
 
