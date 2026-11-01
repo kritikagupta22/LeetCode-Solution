@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0835-image-overlap) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kritikagupta22/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
